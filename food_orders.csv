@@ -1,0 +1,16 @@
+order_id,date,customer,city,cuisine,amount,rating,delivery_min
+101,2026-10-01,Aarav,Mumbai,Biryani,320,4.5,35
+102,2026-10-01,Diya,Delhi,Pizza,450,4.0,28
+103,2026-10-02,Kabir,Bengaluru,South Indian,180,4.6,22
+104,2026-10-02,Sneha,Mumbai,Chinese,260,3.8,30
+105,2026-10-03,Aarav,Mumbai,Pizza,520,4.2,32
+106,2026-10-03,Rohan,Delhi,Biryani,300,4.7,40
+107,2026-10-04,Diya,Delhi,Chinese,240,3.9,25
+108,2026-10-04,Kabir,Bengaluru,Biryani,350,4.4,38
+109,2026-10-05,Sneha,Mumbai,Pizza,480,4.1,27
+110,2026-10-05,Rohan,Delhi,South Indian,150,4.8,18
+111,2026-10-06,Aarav,Mumbai,Chinese,280,3.7,33
+112,2026-10-06,Diya,Delhi,Biryani,340,4.6,36
+113,2026-10-07,Kabir,Bengaluru,Pizza,410,4.3,29
+114,2026-10-07,Sneha,Mumbai,South Indian,200,4.5,20
+115,2026-10-08,Rohan,Delhi,Chinese,230,4.0,26
